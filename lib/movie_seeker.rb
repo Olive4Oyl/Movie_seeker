@@ -1,5 +1,6 @@
-require "movie_seeker/version"
-
-module MovieSeeker
-  # Your code goes here...
-end
+require_relative "./movie_seeker/version"
+require_relative "./movie_seeker/cli"
+require_relative "./movie_seeker/scraper"
+require_relative "./movie_seeker/in_theater"
+require_relative "./movie_seeker/coming_soon"
+require_relative "./movie_seeker/scraper"

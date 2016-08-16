@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+gem 'colorize'
+gem 'artii'
 
-# Specify your gem's dependencies in movie_seeker.gemspec
+
+
 gemspec
