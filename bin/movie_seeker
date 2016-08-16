@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require_relative './lib/movie_seeker'
+require_relative '../lib/movie_seeker'
 
 MovieSeeker::CLI.new.call
